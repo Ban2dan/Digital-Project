@@ -1,0 +1,13 @@
+@0x00   0x50    // initial mid-point of X, save the new X value
+@0x01   0x3C    //                   of Y, save the new Y value
+@0x02   0x08    // forward only [1000]
+@0x03   0x04    // backward only [0100]
+@0x04   0x02    // left 0010
+@0x05   0x01    // right 0001
+@0x06   0x00    // brake [0000]
+@0x07   0x32    // X Boundary =50
+@0x08   0x6E    // X Boundary =110
+@0x09   0x28    // Y Boundary 40
+@0x0A   0x50    // Y Boundary =80
+@0x0B   0x00    //0
+
